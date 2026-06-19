@@ -376,7 +376,7 @@ raid\_summer/winter
 
 Go to: C:\\Users\\User\\Documents\\My Games\\Company of Heroes 2\\mods\\skins\\subscriptions
 
-select any <ID Workshop Mod>.sga (Example: 482561139.sga) file, inside the skin names are <ID Mod>\_summer/winter (Example: ebc607a9af194bf8b810dfeeba5e5891\_summer/winter)
+select any [ID Workshop Mod].sga (Example: 482561139.sga) file, inside the skin names are [ID Mod]\_summer/winter (Example: ebc607a9af194bf8b810dfeeba5e5891\_summer/winter)
 
 
 
