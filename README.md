@@ -312,7 +312,7 @@ german\_summer/winter
 
 ## Sturm Offizier
 
-**Note: There's no 'jeagar\_winter' skin for Sturm Offizier**
+###### **Note: There's no 'jeagar\_winter' skin for Sturm Offizier**
 
 jeagar\_summer
 
